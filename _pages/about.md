@@ -9,7 +9,7 @@ redirect_from:
 
 I am a **PhD student in Artificial Intelligence** at *Oregon State University*, working at the intersection of causality and AI. My objective is to develop robust and reliable AI systems that understand the world, are able to adapt to changes, and operate safely.
 
-> *"Robust AI doesn't just adapt to change, it learns the rules behind it."*
+> *"Robust AI doesn't just react to change, it learns the rules behind it."*
 
 ## Research Interests
 - **Causal Inference & Discovery** – Developing algorithms for causal reasoning.

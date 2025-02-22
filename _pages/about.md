@@ -18,7 +18,7 @@ I am a **PhD student in Artificial Intelligence** at *Oregon State University*, 
 
 ## Publications
 
-[1] **Matteo Ceriscioli** and Karthika Mohan. [Causal Discovery with Adaptable AI Agents](\href{https://openreview.net/forum?id=FY5RYxJCQJ). The 39th Annual AAAI Conference on Artificial Intelligence (AAAI-25) W33: Artificial Intelligence with Causal Techniques, 2025.}
+[1] **Matteo Ceriscioli** and Karthika Mohan. [Causal Discovery with Adaptable AI Agents](\href{https://openreview.net/forum?id=FY5RYxJCQJ). The 39th Annual AAAI Conference on Artificial Intelligence (AAAI-25) W33: Artificial Intelligence with Causal Techniques, 2025.
 
 <!--### Ongoing Work
 - **A Causal Framework for AI Safety** - *In preparation for UAI-25*

@@ -21,7 +21,7 @@ repository               : "matteoceriscioli/matteoceriscioli.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Matteo_Ceriscioli_photo.png"
   name             : "Matteo Ceriscioli"
   pronouns         : # example: "she/her"  
   bio              : "Causality & AI Safety | Artificial Intelligence PhD student at Oregon State University"

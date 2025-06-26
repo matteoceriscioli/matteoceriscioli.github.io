@@ -29,9 +29,9 @@ World Models Even Under Mediation. 2025.
 ## Talks
 
 **Robust AI doesn’t just react to change, it learns the rules behind it.**
-- Institute of Scientific and Industrial Research (SANKEN), Osaka University, 2025.
-- The 24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS-25) W1: Adaptive and Learning Agents, 2025.
-- Oregon State University AI Week, 2025.
+- Institute of Scientific and Industrial Research (SANKEN), Osaka University, 20th June 2025.
+- The 24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS-25) W1: Adaptive and Learning Agents, 19th May 2025.
+- Oregon State University AI Week, 30th April 2025.
 
 
 

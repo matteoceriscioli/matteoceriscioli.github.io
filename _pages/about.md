@@ -16,6 +16,9 @@ I am a **PhD student in Artificial Intelligence** at *Oregon State University*, 
 - **Multi-Agent Systems** – Designing techniques to verify agents' understanding of their environment.
 - **AI Safety** – Ensuring AI makes safe and reliable decisions.
 
+## Reviewing
+Reviewer for Behaviormetrika, an international peer-reviewed journal publishing new theoretical and empirical research in data science and statistical modeling.
+
 ## Publications
 
 **Matteo Ceriscioli** and Karthika Mohan. Agents Robust to Distribution Shifts Learn Causal

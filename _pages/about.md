@@ -17,12 +17,14 @@ I am a **PhD student in Artificial Intelligence** at *Oregon State University*, 
 - **AI Safety** – Ensuring AI makes safe and reliable decisions.
 
 ## Reviewing
-Reviewer for **Behaviormetrika**, an international peer-reviewed journal publishing new theoretical and empirical research in data science and statistical modeling.
+Reviewer for **Behaviormetrika**, an international peer-reviewed journal of the Behaviormetric Society of Japan, publishing research in data science and statistical modeling.
 
 ## Publications
 
+**Matteo Ceriscioli**, Shohei Shimizu, and Karthika Mohan. Discovering Linear Non-Gaussian Models for All Categories of Missing Data.
+
 **Matteo Ceriscioli** and Karthika Mohan. Agents Robust to Distribution Shifts Learn Causal
-World Models Even Under Mediation. 2025.
+World Models Even Under Mediation. The 39th Annual Conference on Neural Information Processing Systems (NeurIPS-25), 2025.
 
 **Matteo Ceriscioli** and Karthika Mohan. [Causal Discovery via Adaptive Agents in Multi-Agent and Sequential Decision Tasks](https://openreview.net/attachment?id=CcyLwtPfat&name=pdf). The 24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS-25) W1: Adaptive and Learning Agents, 2025.
 

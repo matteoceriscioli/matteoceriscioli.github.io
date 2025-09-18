@@ -11,6 +11,8 @@ I am a **PhD student in Artificial Intelligence** at *Oregon State University*, 
 
 > *"Robust AI doesn't just react to change, it learns the rules behind it."*
 
+Earlier, I was a Research Trainee at RIKEN AIP in Japan, where I worked in the [Causal Inference team](https://www.riken.jp/en/research/labs/aip/generic_tech/cause_infer/index.html) led by Prof. [Shohei Shimizu](https://sites.google.com/view/sshimizu06/lingam/lingampapers/basic-linear-models). I also served as an intern at Vodafone Germany in the Deep Insight Consumer Data Science team, under the supervision of Dr. [Rolf Bardeli](https://www.linkedin.com/in/rolf-bardeli-30689a2/?originalSubdomain=de), where I developed causal reasoning tools and designed GNN models for community detection tasks as part of my Master’s degree in Artificial Intelligence and Data Science at Heinrich-Heine University of Düsseldorf, with Prof. [Paul Swoboda](https://www.sarmata.hhu.de/) as my thesis supervisor.
+
 ## Research Interests
 - **Causal Inference & Discovery** – Developing algorithms for causal reasoning.
 - **Multi-Agent Systems** – Designing techniques to verify agents' understanding of their environment.

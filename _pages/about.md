@@ -25,8 +25,8 @@ Reviewer for **Behaviormetrika**, an international peer-reviewed journal of the 
 
 **Matteo Ceriscioli**, Shohei Shimizu, and Karthika Mohan. Discovering Linear Non-Gaussian Models for All Categories of Missing Data.
 
-**Matteo Ceriscioli** and Karthika Mohan. Agents Robust to Distribution Shifts Learn Causal
-World Models Even Under Mediation. The 39th Annual Conference on Neural Information Processing Systems (NeurIPS-25), 2025.
+**Matteo Ceriscioli** and Karthika Mohan. [Agents Robust to Distribution Shifts Learn Causal
+World Models Even Under Mediation](https://neurips.cc/virtual/2025/poster/118687). The 39th Annual Conference on Neural Information Processing Systems (NeurIPS-25), 2025.
 
 **Matteo Ceriscioli** and Karthika Mohan. [Causal Discovery via Adaptive Agents in Multi-Agent and Sequential Decision Tasks](https://openreview.net/attachment?id=CcyLwtPfat&name=pdf). The 24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS-25) W1: Adaptive and Learning Agents, 2025.
 

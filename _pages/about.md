@@ -23,7 +23,10 @@ Reviewer for **Behaviormetrika**, an international peer-reviewed journal of the 
 
 ## Publications
 
-**Matteo Ceriscioli**, Shohei Shimizu, and Karthika Mohan. Discovering Linear Non-Gaussian Models for All Categories of Missing Data.
+**Matteo Ceriscioli**. Eliciting Causal Knowledge from Agents. The 40th Annual AAAI Conference on Artificial
+Intelligence (AAAI-26) Doctoral Consortium, 2026. (Under review)
+
+**Matteo Ceriscioli**, Shohei Shimizu, and Karthika Mohan. Discovering Linear Non-Gaussian Models for All Categories of Missing Data (Student abstract). The 40th Annual AAAI Conference on Artificial Intelligence (AAAI-26) Student Abstract and Poster Program, 2026.
 
 **Matteo Ceriscioli** and Karthika Mohan. [Agents Robust to Distribution Shifts Learn Causal
 World Models Even Under Mediation](https://neurips.cc/virtual/2025/poster/118687). The 39th Annual Conference on Neural Information Processing Systems (NeurIPS-25), 2025.

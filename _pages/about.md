@@ -33,7 +33,7 @@ World Models Even Under Mediation](https://neurips.cc/virtual/2025/poster/118687
 
 **Matteo Ceriscioli** and Karthika Mohan. [Causal Discovery via Adaptive Agents in Multi-Agent and Sequential Decision Tasks](https://openreview.net/attachment?id=CcyLwtPfat&name=pdf). The 24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS-25) W1: Adaptive and Learning Agents, 2025. (<a id="raw-url" href="https://raw.githubusercontent.com/matteoceriscioli/matteoceriscioli.github.io/master/files/Causal_Discovery_via_Adaptive_Agents_in_MultiAgent_and_Sequential_Decision_Tasks.pdf" download>download</a>)
 
-**Matteo Ceriscioli** and Karthika Mohan. [Causal Discovery with Adaptable AI Agents](https://openreview.net/attachment?id=FY5RYxJCQJ&name=pdf). The 39th Annual AAAI Conference on Artificial Intelligence (AAAI-25) W33: Artificial Intelligence with Causal Techniques, 2025. (<a id="raw-url" href="https://raw.githubusercontent.com/matteoceriscioli/matteoceriscioli.github.io/master/files/Causal_Discovery_via_Adaptive_Agents_in_MultiAgent_and_Sequential_Decision_Tasks.pdf">download</a>)
+**Matteo Ceriscioli** and Karthika Mohan. [Causal Discovery with Adaptable AI Agents](https://openreview.net/attachment?id=FY5RYxJCQJ&name=pdf). The 39th Annual AAAI Conference on Artificial Intelligence (AAAI-25) W33: Artificial Intelligence with Causal Techniques, 2025. (<a id="raw-url" href="https://raw.githubusercontent.com/matteoceriscioli/matteoceriscioli.github.io/master/files/Causal_Discovery_with_Adaptable_AI_Agents.pdf">download</a>)
 
 
 ## Talks

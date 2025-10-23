@@ -56,4 +56,4 @@ World Models Even Under Mediation](https://neurips.cc/virtual/2025/poster/118687
 
 
 ## Let's Connect.
-Would you like to collaborate on a project? Feel free to reach out to ceriscim@oregonstate.edu.
+Would you like to collaborate on a project? Feel free to reach out to [ceriscim@oregonstate.edu](mailto:ceriscim@oregonstate.edu).

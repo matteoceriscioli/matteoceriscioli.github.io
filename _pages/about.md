@@ -24,10 +24,9 @@ Reviewer for **Behaviormetrika**, an international peer-reviewed journal of the 
 ## Publications
 
 **Matteo Ceriscioli**. Eliciting Causal Knowledge from Agents. The 40th Annual AAAI Conference on Artificial
-Intelligence (AAAI-26) Doctoral Consortium, 2026. (Under review)
+Intelligence (AAAI-26) Doctoral Consortium, 2026. (<a id="raw-url" href="https://raw.githubusercontent.com/matteoceriscioli/matteoceriscioli.github.io/master/files/Eliciting_Causal_Knowledge_from_Agents.pdf" download>download</a>)
 
 **Matteo Ceriscioli**, Shohei Shimizu, and Karthika Mohan. Discovering Linear Non-Gaussian Models for All Categories of Missing Data (Student Abstract). The 40th Annual AAAI Conference on Artificial Intelligence (AAAI-26) Student Abstract and Poster Program, 2026. (<a id="raw-url" href="https://raw.githubusercontent.com/matteoceriscioli/matteoceriscioli.github.io/master/files/Discovering_Linear_NonGaussian_Models_for_All_Categories_of_Missing_Data_(Student_Abstract).pdf" download>download</a>)
-
 
 **Matteo Ceriscioli** and Karthika Mohan. [Agents Robust to Distribution Shifts Learn Causal
 World Models Even Under Mediation](https://neurips.cc/virtual/2025/poster/118687). The 39th Annual Conference on Neural Information Processing Systems (NeurIPS-25), 2025. (<a id="raw-url" href="https://raw.githubusercontent.com/matteoceriscioli/matteoceriscioli.github.io/master/files/Agents_Robust_to_Distribution_Shifts_Learn_Causal_World_Models_Even_Under_Mediation.pdf" download>download</a>)

@@ -40,6 +40,9 @@ World Models Even Under Mediation](https://neurips.cc/virtual/2025/poster/118687
 
 ## Talks
 
+**Eliciting Causal Knowledge from Agents.**
+- The 40th Annual AAAI Conference on Artificial Intelligence (AAAI-26) Doctoral Consortium, 21st January 2026.
+
 **Robust AI doesn’t just react to change, it learns the rules behind it.**
 - Institute of Scientific and Industrial Research (SANKEN), Osaka University, 20th June 2025.
 - The 24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS-25) W1: Adaptive and Learning Agents, 19th May 2025.

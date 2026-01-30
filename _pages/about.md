@@ -19,7 +19,7 @@ Earlier, I was a Research Trainee at *RIKEN AIP* in Japan, where I worked in the
 - **AI Safety** – Ensuring AI makes safe and reliable decisions.
 
 ## Reviewing
-Reviewer for the **Adaptive and Learning Agents workshop (ALA)** at the International Conference on Autonomous Agents and Multiagent Systems (AAMAS-26).
+Member of the Program Committee, **Adaptive and Learning Agents workshop (ALA)** at the International Conference on Autonomous Agents and Multiagent Systems (AAMAS-26), reviewing and evaluating submissions.
 
 Reviewer for **Behaviormetrika**, an international peer-reviewed journal of the Behaviormetric Society of Japan, publishing research in data science and statistical modeling.
 

@@ -47,9 +47,9 @@ Member of the Program Committee for the **Adaptive and Learning Agents workshop 
 
 Reviewer for **Behaviormetrika**, an international peer-reviewed journal of the Behaviormetric Society of Japan, publishing research in data science and statistical modeling.
 
-Volunteer at the **39th Annual Conference on Neural Information Processing Systems**. December 1-8, 2025 | San Diego, California, USA.
+Volunteer at the **39th Annual Conference on Neural Information Processing Systems**. December 1-8, 2025. San Diego, California, USA.
 
-Volunteer at the **39th Annual AAAI Conference on Artificial Intelligence**. February 25 – March 4, 2025 | Philadelphia, Pennsylvania, USA.
+Volunteer at the **39th Annual AAAI Conference on Artificial Intelligence**. February 25 – March 4, 2025. Philadelphia, Pennsylvania, USA.
 
 
 

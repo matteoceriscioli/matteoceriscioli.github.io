@@ -64,4 +64,4 @@ Volunteer at the **39th Annual AAAI Conference on Artificial Intelligence**. Feb
 
 
 ## Let's Connect.
-Would you like to collaborate on a project? Feel free to reach out to [ceriscim@oregonstate.edu](mailto:ceriscim@oregonstate.edu).
+For any inquiries, please contact [ceriscim@oregonstate.edu](mailto:ceriscim@oregonstate.edu).

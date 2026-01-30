@@ -18,15 +18,6 @@ Earlier, I was a Research Trainee at *RIKEN AIP* in Japan, where I worked in the
 - **Multi-Agent Systems** – Designing techniques to verify agents' understanding of their environment.
 - **AI Safety** – Ensuring AI makes safe and reliable decisions.
 
-## Service
-Member of the Program Committee for the **Adaptive and Learning Agents workshop (ALA)** at the International Conference on Autonomous Agents and Multiagent Systems (AAMAS-26), reviewing and evaluating submissions.
-
-Reviewer for **Behaviormetrika**, an international peer-reviewed journal of the Behaviormetric Society of Japan, publishing research in data science and statistical modeling.
-
-Volunteer at the **39th Annual Conference on Neural Information Processing Systems**. December 1-8, 2025 | San Diego, California, USA.
-
-Volunteer at the **39th Annual AAAI Conference on Artificial Intelligence**. February 25 – March 4, 2025 | Philadelphia, Pennsylvania, USA.
-
 ## Publications
 
 **Matteo Ceriscioli**. Eliciting Causal Knowledge from Agents. The 40th Annual AAAI Conference on Artificial
@@ -41,7 +32,6 @@ World Models Even Under Mediation](https://neurips.cc/virtual/2025/poster/118687
 
 **Matteo Ceriscioli** and Karthika Mohan. [Causal Discovery with Adaptable AI Agents](https://openreview.net/attachment?id=FY5RYxJCQJ&name=pdf). The 39th Annual AAAI Conference on Artificial Intelligence (AAAI-25) W33: Artificial Intelligence with Causal Techniques, 2025. (<a id="raw-url" href="https://raw.githubusercontent.com/matteoceriscioli/matteoceriscioli.github.io/master/files/Causal_Discovery_with_Adaptable_AI_Agents.pdf">download</a>)
 
-
 ## Talks
 
 **Eliciting Causal Knowledge from Agents.**
@@ -51,6 +41,15 @@ World Models Even Under Mediation](https://neurips.cc/virtual/2025/poster/118687
 - Institute of Scientific and Industrial Research (SANKEN), Osaka University, 20th June 2025.
 - The 24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS-25) W1: Adaptive and Learning Agents, 19th May 2025.
 - Oregon State University AI Week, 30th April 2025.
+
+## Service
+Member of the Program Committee for the **Adaptive and Learning Agents workshop (ALA)** at the International Conference on Autonomous Agents and Multiagent Systems (AAMAS-26), reviewing and evaluating submissions.
+
+Reviewer for **Behaviormetrika**, an international peer-reviewed journal of the Behaviormetric Society of Japan, publishing research in data science and statistical modeling.
+
+Volunteer at the **39th Annual Conference on Neural Information Processing Systems**. December 1-8, 2025 | San Diego, California, USA.
+
+Volunteer at the **39th Annual AAAI Conference on Artificial Intelligence**. February 25 – March 4, 2025 | Philadelphia, Pennsylvania, USA.
 
 
 

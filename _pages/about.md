@@ -43,7 +43,7 @@ World Models Even Under Mediation](https://neurips.cc/virtual/2025/poster/118687
 - Oregon State University AI Week, 30th April 2025.
 
 ## Service
-Member of the Program Committee for the **Adaptive and Learning Agents workshop (ALA)** at the International Conference on Autonomous Agents and Multiagent Systems (AAMAS-26), reviewing and evaluating submissions.
+Member of the Program Committee for the 18th edition of the **Adaptive and Learning Agents workshop (ALA)** at the International Conference on Autonomous Agents and Multiagent Systems (AAMAS-26), reviewing and evaluating submissions.
 
 Reviewer for **Behaviormetrika**, an international peer-reviewed journal of the Behaviormetric Society of Japan, publishing research in data science and statistical modeling.
 

@@ -20,6 +20,8 @@ Earlier, I was a Research Trainee at *RIKEN AIP* in Japan, where I worked in the
 
 ## Publications
 
+**Matteo Ceriscioli** and Karthika Mohan. Planning under Distribution Shifts with Causal POMDPs. The 35th International Conference on Automated Planning and Scheduling (ICAPS-26), 2026.
+
 **Matteo Ceriscioli**. Eliciting Causal Knowledge from Agents. The 40th Annual AAAI Conference on Artificial
 Intelligence (AAAI-26) Doctoral Consortium, 2026. (<a id="raw-url" href="https://raw.githubusercontent.com/matteoceriscioli/matteoceriscioli.github.io/master/files/Eliciting_Causal_Knowledge_from_Agents.pdf" download>download</a>)
 

@@ -22,10 +22,10 @@ Earlier, I was a Research Trainee at *RIKEN AIP* in Japan, where I worked in the
 
 **Matteo Ceriscioli** and Karthika Mohan. Planning under Distribution Shifts with Causal POMDPs. The 35th International Conference on Automated Planning and Scheduling (ICAPS-26), 2026. (<a id="raw-url" href="https://raw.githubusercontent.com/matteoceriscioli/matteoceriscioli.github.io/master/files/Planning_Under_Distribution_Shifts_with_Causal_POMDPs.pdf" download>download</a>)
 
-**Matteo Ceriscioli**. Eliciting Causal Knowledge from Agents. The 40th Annual AAAI Conference on Artificial
+**Matteo Ceriscioli**. [Eliciting Causal Knowledge from Agents](https://ojs.aaai.org/index.php/AAAI/article/view/42144). The 40th Annual AAAI Conference on Artificial
 Intelligence (AAAI-26) Doctoral Consortium, 2026. (<a id="raw-url" href="https://raw.githubusercontent.com/matteoceriscioli/matteoceriscioli.github.io/master/files/Eliciting_Causal_Knowledge_from_Agents.pdf" download>download</a>)
 
-**Matteo Ceriscioli**, Shohei Shimizu, and Karthika Mohan. Discovering Linear Non-Gaussian Models for All Categories of Missing Data (Student Abstract). The 40th Annual AAAI Conference on Artificial Intelligence (AAAI-26) Student Abstract and Poster Program, 2026. (<a id="raw-url" href="https://raw.githubusercontent.com/matteoceriscioli/matteoceriscioli.github.io/master/files/Discovering_Linear_NonGaussian_Models_for_All_Categories_of_Missing_Data_(Student_Abstract).pdf" download>download</a>)
+**Matteo Ceriscioli**, Shohei Shimizu, and Karthika Mohan. [Discovering Linear Non-Gaussian Models for All Categories of Missing Data (Student Abstract)](https://ojs.aaai.org/index.php/AAAI/article/view/42195). The 40th Annual AAAI Conference on Artificial Intelligence (AAAI-26) Student Abstract and Poster Program, 2026. (<a id="raw-url" href="https://raw.githubusercontent.com/matteoceriscioli/matteoceriscioli.github.io/master/files/Discovering_Linear_NonGaussian_Models_for_All_Categories_of_Missing_Data_(Student_Abstract).pdf" download>download</a>)
 
 **Matteo Ceriscioli** and Karthika Mohan. [Agents Robust to Distribution Shifts Learn Causal
 World Models Even Under Mediation](https://neurips.cc/virtual/2025/poster/118687). The 39th Annual Conference on Neural Information Processing Systems (NeurIPS-25), 2025. (<a id="raw-url" href="https://raw.githubusercontent.com/matteoceriscioli/matteoceriscioli.github.io/master/files/Agents_Robust_to_Distribution_Shifts_Learn_Causal_World_Models_Even_Under_Mediation.pdf" download>download</a>)

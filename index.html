@@ -546,15 +546,15 @@
   }
 
   .service-item {
-    background: white;
-    border: 1px solid var(--rule);
-    border-radius: 4px;
-    padding: 1.4rem 1.6rem;
-    display: flex;
-    align-items: flex-start;
-    gap: 1rem;
-    transition: transform 0.2s;
-  }
+       background: white;
+       border: 1px solid var(--rule);
+       border-radius: 4px;
+       padding: 1.4rem 1.6rem;
+       display: flex;
+       flex-direction: column;
+       gap: 0.4rem; /* optional: tighter spacing */
+       transition: transform 0.2s;
+   }
 
   .service-item:hover { transform: translateY(-2px); }
 
@@ -955,11 +955,11 @@
         </div>
         <div class="service-item reveal">
           <span class="service-role">Volunteer</span>
-          <p class="service-desc"><strong>39th Annual Conference on Neural Information Processing Systems.</strong> · December 1–8, 2025. San Diego, California, USA.</p>
+          <p class="service-desc"><strong>39th Annual Conference on Neural Information Processing Systems.</strong> December 1–8, 2025. San Diego, California, USA.</p>
         </div>
         <div class="service-item reveal">
           <span class="service-role">Volunteer</span>
-          <p class="service-desc"><strong>39th Annual AAAI Conference on Artificial Intelligence. </strong> · February 25 – March 4, 2025. Philadelphia, Pennsylvania, USA.</p>
+          <p class="service-desc"><strong>39th Annual AAAI Conference on Artificial Intelligence. </strong> February 25 – March 4, 2025. Philadelphia, Pennsylvania, USA.</p>
         </div>
       </div>
     </section>

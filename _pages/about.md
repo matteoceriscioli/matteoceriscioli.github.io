@@ -48,18 +48,24 @@ World Models Even Under Mediation](https://neurips.cc/virtual/2025/poster/118687
 - Oregon State University AI Week, 30th April 2025.
 
 ## Service
+
 <ins>Vice President</ins> of the **Causal Intelligence Association** at Oregon State University.
+
 <ins>Reviewer</ins> for the **30th Annual Conference on Artificial Intelligence and Statistics** (AISTATS-27).
+
 <ins>Reviewer</ins> for the **40th Annual Conference on Neural Information Processing Systems** (NeurIPS-26).
+
 <ins>Member of the Program Committee</ins> for the 18th edition of the [**Adaptive and Learning Agents workshop (ALA)**](https://alaworkshop2026.github.io/) at the International Conference on Autonomous Agents and Multiagent Systems (AAMAS-26), reviewing and evaluating submissions.
+
 <ins>Member of the Program Committee</ins> for the 2nd edition of the [**Causal Neurosymbolic AI workshop (Causal-NeSy)**](https://sites.google.com/view/causalnesy2026) at the European Semantic Web Conference (ESWC-26), reviewing and evaluating submissions.
-<ins>Reviewer</ins> for **Test**, an international journal published by Elsevier, focusing on theoretical and applied research in neural networks, machine learning, and artificial intelligence.
+
+<ins>Reviewer</ins> for **Neurocomputing**, an international journal published by Elsevier, focusing on theoretical and applied research in neural networks, machine learning, and artificial intelligence.
+
 <ins>Reviewer</ins> for **Behaviormetrika**, an international journal of the Behaviormetric Society of Japan, publishing research in data science and statistical modeling.
+
 <ins>Volunteer</ins> at the **39th Annual Conference on Neural Information Processing Systems** (NeurIPS-25). December 1-8, 2025. San Diego, California, USA.
+
 <ins>Volunteer</ins> at the **39th Annual AAAI Conference on Artificial Intelligence** (AAAI-25). February 25 – March 4, 2025. Philadelphia, Pennsylvania, USA.
-
-
-
 
 
 

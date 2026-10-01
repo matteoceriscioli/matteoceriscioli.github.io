@@ -50,7 +50,7 @@ World Models Even Under Mediation](https://neurips.cc/virtual/2025/poster/118687
 ## Service
 <ins>Vice President</ins> of the **Causal Intelligence Association** at Oregon State University.
 
-<ins>Reviewer</ins> for **30th Annual Conference on  Artificial Intelligence and Statistics** (AISTATS-27).
+<ins>Reviewer</ins> for the **30th Annual Conference on  Artificial Intelligence and Statistics** (AISTATS-27).
 
 <ins>Reviewer</ins> for the **40th Annual Conference on Neural Information Processing Systems** (NeurIPS-26).
 

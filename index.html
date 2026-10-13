@@ -737,10 +737,11 @@
   line-height: inherit;
   color: inherit;
   cursor: pointer;
-  border: 1px solid currentColor; /* same width, style, and color on all four sides */
-  border-radius: 999px;           /* change to match your other chips */
+  border: 1px solid currentColor;
+  border-radius: 0px;   /* use 0 for perfectly sharp corners */
   background: transparent;
   box-sizing: border-box;
+  padding: 0.3rem 0.7rem;
 }
  
   /* Expandable BibTeX block (hidden until the chip is clicked) */

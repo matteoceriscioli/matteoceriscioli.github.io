@@ -765,18 +765,45 @@
     white-space: pre;
   }
   .bibtex-copy {
-    position: absolute;
-    top: 0.5rem;
-    right: 0.5rem;
-    font: inherit;
-    font-size: 0.75rem;
-    padding: 0.2rem 0.6rem;
-    border-radius: 4px;
-    border: 1px solid currentColor;
-    background: transparent;
-    color: inherit;
-    cursor: pointer;
-  }
+  position: absolute;
+  top: 0.5rem;
+  left: 0.5rem;          /* was right: 0.5rem */
+  font: inherit;
+  font-size: 0.75rem;
+  padding: 0.2rem 0.6rem;
+  border-radius: 4px;
+  border: 1px solid currentColor;
+  background: transparent;
+  color: inherit;
+  cursor: pointer;
+}
+
+/* Make room at the top of the block so the button doesn't cover the text */
+.bibtex-box pre {
+  padding-top: 2.6rem;
+}
+
+/* "Copied!" message next to the BibTeX chip */
+.bibtex-wrap {
+  position: relative;
+  display: inline-block;
+}
+.copied-msg {
+  position: absolute;
+  left: 100%;
+  top: 50%;
+  transform: translateY(-50%);
+  margin-left: 0.6rem;
+  font-size: 0.8rem;
+  white-space: nowrap;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.4s ease;   /* fade-out speed */
+}
+.copied-msg.show {
+  opacity: 1;
+  transition: opacity 0.1s ease;   /* appears almost instantly */
+}
 </style>
 </head>
 <body>
@@ -1146,18 +1173,64 @@ url={https://openreview.net/forum?id=FY5RYxJCQJ}
 </script>
 
  <script>
+  // Copy text to the clipboard, with a fallback for non-HTTPS pages
+  function copyText(text) {
+    if (navigator.clipboard && window.isSecureContext) {
+      return navigator.clipboard.writeText(text);
+    }
+    return new Promise(function (resolve, reject) {
+      var ta = document.createElement('textarea');
+      ta.value = text;
+      ta.style.position = 'fixed';
+      ta.style.opacity = '0';
+      document.body.appendChild(ta);
+      ta.select();
+      try {
+        document.execCommand('copy') ? resolve() : reject();
+      } catch (e) {
+        reject(e);
+      }
+      document.body.removeChild(ta);
+    });
+  }
+
   document.querySelectorAll('.bibtex-toggle').forEach(function (btn) {
+    // Wrap the button so the message can be positioned next to it
+    var wrap = document.createElement('span');
+    wrap.className = 'bibtex-wrap';
+    btn.parentNode.insertBefore(wrap, btn);
+    wrap.appendChild(btn);
+
+    var msg = document.createElement('span');
+    msg.className = 'copied-msg';
+    msg.textContent = 'Copied!';
+    wrap.appendChild(msg);
+
+    var timer;
     btn.addEventListener('click', function () {
       var box = btn.closest('.pub-card').querySelector('.bibtex-box');
       var isOpen = box.classList.toggle('open');
       btn.setAttribute('aria-expanded', isOpen);
+
+      // Copy only when opening, not when closing
+      if (isOpen) {
+        var text = box.querySelector('pre').textContent.trim();
+        copyText(text).then(function () {
+          msg.classList.add('show');
+          clearTimeout(timer);
+          timer = setTimeout(function () {
+            msg.classList.remove('show');   // triggers the fade-out
+          }, 800);
+        });
+      }
     });
   });
- 
+
+  // The Copy button inside the block still works too
   document.querySelectorAll('.bibtex-copy').forEach(function (btn) {
     btn.addEventListener('click', function () {
       var text = btn.parentElement.querySelector('pre').textContent.trim();
-      navigator.clipboard.writeText(text).then(function () {
+      copyText(text).then(function () {
         btn.textContent = 'Copied';
         setTimeout(function () { btn.textContent = 'Copy'; }, 1500);
       });

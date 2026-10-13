@@ -731,9 +731,17 @@
  <style>
   /* The BibTeX chip is a <button>, so reset browser button styling to match your .link-chip look */
   button.link-chip {
-    font: inherit;
-    cursor: pointer;
-  }
+  -webkit-appearance: none;
+  appearance: none;
+  font: inherit;
+  line-height: inherit;
+  color: inherit;
+  cursor: pointer;
+  border: 1px solid currentColor; /* same width, style, and color on all four sides */
+  border-radius: 999px;           /* change to match your other chips */
+  background: transparent;
+  box-sizing: border-box;
+}
  
   /* Expandable BibTeX block (hidden until the chip is clicked) */
   .bibtex-box {

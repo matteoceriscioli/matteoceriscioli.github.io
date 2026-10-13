@@ -728,6 +728,47 @@
     .pub-index { display: none; }
   }
 </style>
+ <style>
+  /* The BibTeX chip is a <button>, so reset browser button styling to match your .link-chip look */
+  button.link-chip {
+    font: inherit;
+    cursor: pointer;
+  }
+ 
+  /* Expandable BibTeX block (hidden until the chip is clicked) */
+  .bibtex-box {
+    display: none;
+    margin-top: 0.75rem;
+    position: relative;
+  }
+  .bibtex-box.open {
+    display: block;
+  }
+  .bibtex-box pre {
+    margin: 0;
+    padding: 0.9rem 1rem;
+    overflow-x: auto;
+    font-size: 0.8rem;
+    line-height: 1.5;
+    border: 1px solid currentColor;
+    border-radius: 6px;
+    background: rgba(127, 127, 127, 0.08);
+    white-space: pre;
+  }
+  .bibtex-copy {
+    position: absolute;
+    top: 0.5rem;
+    right: 0.5rem;
+    font: inherit;
+    font-size: 0.75rem;
+    padding: 0.2rem 0.6rem;
+    border-radius: 4px;
+    border: 1px solid currentColor;
+    background: transparent;
+    color: inherit;
+    cursor: pointer;
+  }
+</style>
 </head>
 <body>
 
@@ -820,7 +861,7 @@
         <hr class="section-rule">
       </div>
       <div class="pub-list">
-
+ 
         <div class="pub-card reveal">
           <span class="pub-index">06</span>
           <div>
@@ -830,10 +871,15 @@
             <div class="pub-links">
               <a href="https://arxiv.org/abs/2602.23545" class="link-chip" target="_blank">🔗 Paper</a>
               <a href="files/Planning_Under_Distribution_Shifts_with_Causal_POMDPs.pdf" class="link-chip" target="_blank">📄 PDF</a>
+              <button type="button" class="link-chip bibtex-toggle" aria-expanded="false">📋 BibTeX</button>
+            </div>
+            <div class="bibtex-box">
+              <button type="button" class="bibtex-copy">Copy</button>
+<pre>PASTE BIBTEX FOR ICAPS-26 HERE</pre>
             </div>
           </div>
         </div>
-
+ 
         <div class="pub-card reveal">
           <span class="pub-index">05</span>
           <div>
@@ -843,10 +889,15 @@
             <div class="pub-links">
               <a href="https://ojs.aaai.org/index.php/AAAI/article/view/42144" class="link-chip" target="_blank">🔗 Paper</a>
               <a href="files/Eliciting_Causal_Knowledge_from_Agents.pdf" class="link-chip" target="_blank">📄 PDF</a>
+              <button type="button" class="link-chip bibtex-toggle" aria-expanded="false">📋 BibTeX</button>
+            </div>
+            <div class="bibtex-box">
+              <button type="button" class="bibtex-copy">Copy</button>
+<pre>PASTE BIBTEX FOR AAAI-26 DOCTORAL CONSORTIUM HERE</pre>
             </div>
           </div>
         </div>
-
+ 
         <div class="pub-card reveal">
           <span class="pub-index">04</span>
           <div>
@@ -856,10 +907,15 @@
             <div class="pub-links">
               <a href="https://ojs.aaai.org/index.php/AAAI/article/view/42195" class="link-chip" target="_blank">🔗 Paper</a>
               <a href="files/Discovering_Linear_NonGaussian_Models_for_All_Categories_of_Missing_Data_(Student_Abstract).pdf" class="link-chip" target="_blank">📄 PDF</a>
+              <button type="button" class="link-chip bibtex-toggle" aria-expanded="false">📋 BibTeX</button>
+            </div>
+            <div class="bibtex-box">
+              <button type="button" class="bibtex-copy">Copy</button>
+<pre>PASTE BIBTEX FOR AAAI-26 STUDENT ABSTRACT HERE</pre>
             </div>
           </div>
         </div>
-
+ 
         <div class="pub-card reveal">
           <span class="pub-index">03</span>
           <div>
@@ -869,10 +925,15 @@
             <div class="pub-links">
               <a href="https://neurips.cc/virtual/2025/poster/118687" class="link-chip" target="_blank">🔗 Paper</a>
               <a href="files/Agents_Robust_to_Distribution_Shifts_Learn_Causal_World_Models_Even_Under_Mediation.pdf" class="link-chip" target="_blank">📄 PDF</a>
+              <button type="button" class="link-chip bibtex-toggle" aria-expanded="false">📋 BibTeX</button>
+            </div>
+            <div class="bibtex-box">
+              <button type="button" class="bibtex-copy">Copy</button>
+<pre>PASTE BIBTEX FOR NEURIPS-25 HERE</pre>
             </div>
           </div>
         </div>
-
+ 
         <div class="pub-card reveal">
           <span class="pub-index">02</span>
           <div>
@@ -882,10 +943,15 @@
             <div class="pub-links">
               <a href="https://openreview.net/forum?id=CcyLwtPfat" class="link-chip" target="_blank">🔗 Paper</a>
               <a href="files/Causal_Discovery_via_Adaptive_Agents_in_MultiAgent_and_Sequential_Decision_Tasks.pdf" class="link-chip" target="_blank">📄 PDF</a>
+              <button type="button" class="link-chip bibtex-toggle" aria-expanded="false">📋 BibTeX</button>
+            </div>
+            <div class="bibtex-box">
+              <button type="button" class="bibtex-copy">Copy</button>
+<pre>PASTE BIBTEX FOR AAMAS-25 WORKSHOP HERE</pre>
             </div>
           </div>
         </div>
-
+ 
         <div class="pub-card reveal">
           <span class="pub-index">01</span>
           <div>
@@ -895,10 +961,15 @@
             <div class="pub-links">
               <a href="https://openreview.net/forum?id=FY5RYxJCQJ" class="link-chip" target="_blank">🔗 Paper</a>
               <a href="files/Causal_Discovery_with_Adaptable_AI_Agents.pdf" class="link-chip" target="_blank">📄 PDF</a>
+              <button type="button" class="link-chip bibtex-toggle" aria-expanded="false">📋 BibTeX</button>
+            </div>
+            <div class="bibtex-box">
+              <button type="button" class="bibtex-copy">Copy</button>
+<pre>PASTE BIBTEX FOR AAAI-25 WORKSHOP HERE</pre>
             </div>
           </div>
         </div>
-
+ 
       </div>
     </section>
 
@@ -1012,6 +1083,26 @@
     });
   }, { threshold: 0.06 });
   revealEls.forEach(el => observer.observe(el));
+</script>
+
+ <script>
+  document.querySelectorAll('.bibtex-toggle').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var box = btn.closest('.pub-card').querySelector('.bibtex-box');
+      var isOpen = box.classList.toggle('open');
+      btn.setAttribute('aria-expanded', isOpen);
+    });
+  });
+ 
+  document.querySelectorAll('.bibtex-copy').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var text = btn.parentElement.querySelector('pre').textContent.trim();
+      navigator.clipboard.writeText(text).then(function () {
+        btn.textContent = 'Copied';
+        setTimeout(function () { btn.textContent = 'Copy'; }, 1500);
+      });
+    });
+  });
 </script>
 
 </body>
